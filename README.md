@@ -1,7 +1,7 @@
 # ShellShocker
 ShellShocker parses a RSS feed from newegg.com that publishes their 'shell shocker' deals that go on 5 times a day. When a new deal is published, this script sends a tweet from @NeweggShocker with the deal and a link to it. ShellShocker is written in python, and set to run via cron at 12AM, 10AM, 1PM, 3PM, 6PM. All times are pacific time. 
 
-To see it working follow @NeweggShocker
+To see it working follow [@NeweggShocker](https://twitter.com/neweggShocker)
 
 ## Dependencies
 Shellshocker requires two python packages to run.
